@@ -1,5 +1,5 @@
 ## Hello World!👋
-😍I'm Ifta
+😍 I’m Iftahul Yusro
 ![Iftahul Yusro](img/ift.png)
 
 <!--
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning Data Mining and AI
+🌱 I’m currently learning **Data Mining** and **AI**
