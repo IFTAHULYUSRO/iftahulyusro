@@ -1,5 +1,5 @@
 ## Hello World!👋 I’m Ifta🌀
-![Iftahul Yusro](img/ift.png)
+![Ifta](img/ift.png)
 
 <!--
 **IFTAHULYUSRO/iftahulyusro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
