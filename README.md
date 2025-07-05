@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World!👋
+😍I'm Iftahul Yusro
+![Iftahul Yusro](img/ift.png)
 
 <!--
 **IFTAHULYUSRO/iftahulyusro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I’m currently learning **Data Mining** and **AI**
